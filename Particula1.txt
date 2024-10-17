@@ -1,0 +1,13 @@
+Allocation A111 = new Allocation(C1, VM4, Servidor1)
+Allocation A121 new Allocation(C2, VM3, Servidor2)
+Allocation A131 = new Allocation(C4, VM2, Servidor1)
+Allocation A141 = new Allocation(C5, VM1, Servidor2)
+Allocation  A151 =  new Allocation(C6, VM, Servidor3)
+Allocation  A161 = new Allocation(C3, VM, Servidor2)
+
+particula1.get position().add(A111)
+particula1.get position().add(A121)
+particula1.get position().add(A131)
+particula1.get position().add(A141)
+particula1.get position().add(A151)
+particula1.get position().add(A161)
